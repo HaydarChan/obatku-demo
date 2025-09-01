@@ -17,7 +17,7 @@ export default function AskingOut() {
                 <MapPin className="w-4 h-4" />
                 <p className="text-xs">Paris Van Java & Theo's Wife Lois</p>
             </div>
-            <p className="text-xs text-center text-gray-600 pt-8">13.00 - 17.30 due to the condition</p>
+            <p className="text-xs text-center text-gray-600 pt-8">Jumat/Sabtu, 13.00 - 17.30 due to the condition</p>
             <p className="text-xs text-center text-gray-600 pt-4">Disclaimer : this invitation is optional! feel free to reject</p>
         </div>
     )
